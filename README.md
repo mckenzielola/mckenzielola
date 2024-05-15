@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**mckenzielola/mckenzielola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <b>Hello, I'm McKenzie! 👋 </b><br>
+</h1>
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I’m interested in front-end development, game design, artifical intelligence
+- 🌱 I’m currently learning ReactJS, Swift, Judge0
+- 📫 How to reach me: mckenzielola12@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- ItemVue - asset tracker web application
+- Project Penguin - gamified web application that aids in job searching for college student
+
+## Skills
+- C++
+- Java
+- Object-Oriented Programming
+- Python
+
+  
+
+
