@@ -10,7 +10,7 @@
 
 ## My Projects
 - ItemVue - asset tracker web application
-- Project Penguin - gamified web application that aids in job searching for college student
+- Project Penguin - gamified web application that aids in job searching for college students
 
 ## Skills
 - C++
